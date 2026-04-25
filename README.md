@@ -1,21 +1,3 @@
-# GitHub Profile README 鈥?Frutiger Aero 椋庢牸
-
-浠ヤ笅鍐呭鏀惧埌 **鏂颁粨搴?`fkyah3/fkyah3`** 鐨?`README.md` 閲屻€侴itHub 浼氳嚜鍔ㄦ妸杩欎釜 README 娓叉煋鍒颁綘鐨勪富椤点€?
-浣犵殑鍥炬斁鍦ㄥ悓涓€涓粨搴擄紝鏂囦欢鍚嶅亣璁炬槸 `bg.png`銆?
----
-
-## 绗竴姝ワ細鍒涘缓浠撳簱
-
-鐩存帴鍦ㄤ綘 GitHub 涓?**New repository**锛屽悕瀛楀～ `fkyah3`銆傚叕寮€鎴栫鏈夐兘琛岋紙鍏紑鎵嶈兘鏄剧ず涓婚〉锛夈€傚嬀閫?"Add a README file"銆?
-## 绗簩姝ワ細涓婁紶鍥剧墖
-
-鎶婄敓鎴愮殑鍥句笂浼犲埌浠撳簱锛屾敼鍚嶄负 `bg.png`銆?
-## 绗笁姝ワ細鏇挎崲 README.md
-
-鎶婁笅闈㈡墍鏈夊唴瀹瑰鍒惰繘 `README.md`锛屼繚瀛樻彁浜ゃ€?
----
-
-```markdown
 <div align="center">
 
 <img src="bg.png" width="100%" alt="Frutiger Aero background">
@@ -39,7 +21,7 @@
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
 ">
 
-### 馃 About Me
+###  About Me
 
 澹颁箰涓撲笟鍑鸿韩 路 AI 宸ュ叿閾炬繁搴︾敤鎴?路 [OpenCode](https://github.com/anomalyco/opencode) 涓汉 fork 缁存姢鑰?
 > 浠ｇ爜瀹炵幇锛欴eepSeek V4 Flash / Sisyphus锛圓I锛? 
@@ -59,7 +41,7 @@
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
 ">
 
-### 馃敡 Working On
+###  Working On
 
 | Project | Description |
 |--------|-------------|
@@ -106,4 +88,3 @@
 <p align="center">
   <sub>Background: AI-generated Frutiger Aero 路 Profile: AI (DeepSeek V4 Flash / Sisyphus)</sub>
 </p>
-```
