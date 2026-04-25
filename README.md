@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="bg.png" width="100%" alt="Frutiger Aero background">
 
@@ -21,13 +21,15 @@
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
 ">
 
-###  About Me
+### About Me
 
-澹颁箰涓撲笟鍑鸿韩 路 AI 宸ュ叿閾炬繁搴︾敤鎴?路 [OpenCode](https://github.com/anomalyco/opencode) 涓汉 fork 缁存姢鑰?
-> 浠ｇ爜瀹炵幇锛欴eepSeek V4 Flash / Sisyphus锛圓I锛? 
-> 鏂瑰悜鎶婃帶涓庤川閲忛獙璇侊細fkyah3锛堜汉绫伙級
+声乐专业出身 / AI 工具链深度用户 / OpenCode 个人 fork 维护者
 
-鎴戠浉淇?AI 鍜屼汉绫诲簲璇ユ槸鐩镐簰淇冭繘銆佸崗鍚屽彂灞曠殑鍏崇郴銆?
+> Code: DeepSeek V4 Flash / Sisyphus (AI)
+> Direction & QA: fkyah3 (human)
+
+I believe AI and humans should grow together, not replace each other.
+
 </div>
 
 <br>
@@ -41,13 +43,13 @@
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
 ">
 
-###  Working On
+### Working On
 
 | Project | Description |
 |--------|-------------|
-| [opencode-fkyah3](https://github.com/fkyah3/opencode-fkyah3) | OpenCode fork 鈥?DeepSeek V4 reasoning_content fix, MC compression, Chinese localization |
-| [opencode-magic-context-fkyah3](https://github.com/fkyah3/opencode-magic-context-fkyah3) | Magic Context plugin fork 鈥?tool truncation optimization, V4 CSA alignment |
-| [oh-my-openagent-fkyah3](https://github.com/fkyah3/oh-my-openagent-fkyah3) | OMO agent fork 鈥?circuit breaker, Chinese system prompt |
+| [opencode-fkyah3](https://github.com/fkyah3/opencode-fkyah3) | OpenCode fork: DeepSeek V4 reasoning_content fix, MC compression, Chinese localization |
+| [opencode-magic-context-fkyah3](https://github.com/fkyah3/opencode-magic-context-fkyah3) | Magic Context plugin fork: tool truncation, V4 CSA alignment |
+| [oh-my-openagent-fkyah3](https://github.com/fkyah3/oh-my-openagent-fkyah3) | OMO agent fork: circuit breaker, Chinese system prompt |
 
 </div>
 
@@ -62,21 +64,15 @@
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
 ">
 
-###  Tech Stack
+### Tech Stack
 
-`DeepSeek V4` `GDScript` `Bun` `TypeScript` `PowerShell` `Git` `Godot`
+DeepSeek V4 GDScript Bun TypeScript PowerShell Git Godot
 
 </div>
 
 <br>
 
 <div align="center">
-
-<a href="https://github.com/fkyah3/opencode-fkyah3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fkyah3&repo=opencode-fkyah3&theme=tokyonight&hide_border=true" alt="opencode-fkyah3">
-</a>
-
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fkyah3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="150">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkyah3&layout=compact&theme=tokyonight&hide_border=true" alt="languages" height="150">
@@ -86,5 +82,5 @@
 ---
 
 <p align="center">
-  <sub>Background: AI-generated Frutiger Aero 路 Profile: AI (DeepSeek V4 Flash / Sisyphus)</sub>
+  <sub>Background: AI-generated Frutiger Aero · Profile: AI (DeepSeek V4 Flash / Sisyphus)</sub>
 </p>
